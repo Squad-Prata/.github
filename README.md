@@ -1,1 +1,1 @@
-<img src="" alt="" title="" width="100%" />
+<img src="SimulacaoDeProjetos.png" alt="Simulação de Projetos" title="Simulação de Projetos" width="100%" />
